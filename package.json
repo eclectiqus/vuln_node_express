@@ -15,5 +15,8 @@
     "pug": "^2.0.4",
     "sqlite": "^3.0.3",
     "express-robots-txt": "1.0.0"
+  },
+  "overrides": {
+    "body-parser@<=1.20.3": "1.20.3"
   }
 }
